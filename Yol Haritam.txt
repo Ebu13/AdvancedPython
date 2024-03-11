@@ -1,0 +1,13 @@
+Python
+Yazılım Temelleri
+Yazılım Geliştirme Süreçleri
+OOP
+Modüller ve Paketler
+Terminal işlemleri
+Threading ve İstek çeşitleri
+Web Geliştirme
+GUI Geliştirme
+Tkinter, Turtle
+Numpy, Pandas, Matplotlib
+Django
+Selenium
