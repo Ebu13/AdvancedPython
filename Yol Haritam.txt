@@ -11,3 +11,5 @@ Tkinter, Turtle
 Numpy, Pandas, Matplotlib
 Django
 Selenium
+Asyncio
+Django
